@@ -10,7 +10,7 @@ import com.herprogramacion.lawyersapp.lawyers.LawyersActivity;
 public class AddEditLawyerActivity extends AppCompatActivity {
 
     public static final int REQUEST_ADD_LAWYER = 1;
-
+    Public int hola;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
